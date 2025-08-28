@@ -10,12 +10,23 @@ Simple Interface: Easy-to-use interface powered by Streamlit for a smooth user e
 
 Word Highlighting: Highlights incorrect words to make them easy to spot.
 
+## 🚀 Try the App Live
+
+🖥️ **Streamlit Dashboard**  
+🔗 [Live Demo](https://spelling-checker-web-app-zn4e2jvtejpacmpvynuwar.streamlit.app/)  
+
 # 🛠️ Technologies Used
 - Streamlit: The core framework for building the interactive web application.
 
 - pyspellchecker: The library used for the spelling correction logic.
 
 - Python 3: The programming language used for the project.
+
+
+![Accuracy](https://github.com/subhadipsinha722133/Spelling-Checker-Web-App/blob/main/webpage_img)
+![Accuracy](https://github.com/subhadipsinha722133/Spelling-Checker-Web-App/blob/main/wevpage_img2.png)
+
+
 
 # ⚙️ Setup and Installation
 To run this project locally, follow these steps:
@@ -29,11 +40,11 @@ cd Spelling-Checker-Web-App
 
 - 2. Create and activate a virtual environment (recommended):
 
-    # For Windows
+# For Windows
     python -m venv venv
     .\venv\Scripts\activate
     
-    # For macOS/Linux
+ # For macOS/Linux
     python3 -m venv venv
     source venv/bin/activate
 
