@@ -33,10 +33,8 @@ To run this project locally, follow these steps:
 
 - 1. Clone the repository:
 
-git clone https://github.com/your-username/Spelling-Checker-Web-App.git
+git clone https://github.com/subhadipsinha722133/Spelling-Checker-Web-App.git
 cd Spelling-Checker-Web-App
-
-(Replace your-username with your actual GitHub username.)
 
 - 2. Create and activate a virtual environment (recommended):
 
